@@ -1,6 +1,9 @@
 # GPT-Discord-Training
 Convert Discord Messages to JSONL for GPT training!
 
+## Getting Messages
+Use DiscordChatExporter (https://github.com/Tyrrrz/DiscordChatExporter) to get discord messages, export as CSV. Put the CSV files into MoreTrainingData folder.
+
 ## Installation
 Requires NodeJS.
 1. Download indexJSONL.js into a folder on your computer.
