@@ -4,8 +4,8 @@ Convert Discord Messages to JSONL for GPT training!
 ## Installation
 Requires NodeJS.
 1. Download indexJSONL.js into a folder on your computer.
+2. npm init
 2. Create folder called "MoreTrainingData"
-2. node init
 3. npm install csv-parser
 4. Modify the script:
 
